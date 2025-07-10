@@ -1,7 +1,3 @@
-Here’s a sample `README.md` for setting up **Django authentication with Okta** using OAuth 2.0 / OIDC (OpenID Connect), including JWT support:
-
----
-
 # 🔐 Django Authentication with Okta
 
 This project demonstrates how to implement authentication in a Django application using **Okta** via OAuth 2.0 / OpenID Connect (OIDC), and how to issue and verify **JWTs** for secure communication between frontend and backend.
